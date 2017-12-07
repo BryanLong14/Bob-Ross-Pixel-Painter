@@ -1,8 +1,10 @@
 
 
-## Please watch the tutorial before proceeding: https://www.youtube.com/embed/VkF0IZ0Lgws
 
-## Happy Trees Live Hosted URL: https://paint-some-happy-trees.firebaseapp.com/
+<a href="https://www.youtube.com/embed/VkF0IZ0Lgws">## Please watch the tutorial before proceeding: </a>
+
+Try it Yourself »
+<a href="https://paint-some-happy-trees.firebaseapp.com/">## Happy Trees Live Hosted URL: </a>
 
 # Bob Ross Pixel Art Maker Screenshot
 ![Screenshot of PixelMaker](screenshots/Bob.jpg)
