@@ -10,6 +10,7 @@ Try it Yourself »
 ![Screenshot of PixelMaker]
 <a href="https://paint-some-happy-trees.firebaseapp.com/"> Happy Trees Live Hosted URL</a>
 
+(screenshots/Bob.jpg)
 
 This pixel art maker allows user to do the following:
 1. Start with a blank canvas of pixels.
