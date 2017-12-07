@@ -5,7 +5,7 @@
 ## Happy Trees Live Hosted URL: https://paint-some-happy-trees.firebaseapp.com/
 
 # Bob Ross Pixel Art Maker Screenshot
-![Screenshot of PixelMaker](Bob.jpg)
+![Screenshot of PixelMaker](screenshots/Bob.jpg)
 
 This pixel art maker allows user to do the following:
 1. Start with a blank canvas of pixels.
