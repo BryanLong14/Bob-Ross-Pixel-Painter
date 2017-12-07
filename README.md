@@ -1,12 +1,12 @@
 
 
 
-<a href="https://www.youtube.com/embed/VkF0IZ0Lgws">## Please watch the tutorial before proceeding: </a>
+##<a href="https://www.youtube.com/embed/VkF0IZ0Lgws">Please watch the tutorial before proceeding: </a>
 
-Try it Yourself »
-<a href="https://paint-some-happy-trees.firebaseapp.com/">## Happy Trees Live Hosted URL: </a>
+##Try it Yourself »
+##<a href="https://paint-some-happy-trees.firebaseapp.com/"> Happy Trees Live Hosted URL: </a>
 
-# Bob Ross Pixel Art Maker Screenshot
+## Bob Ross Pixel Art Maker Screenshot
 ![Screenshot of PixelMaker](screenshots/Bob.jpg)
 
 This pixel art maker allows user to do the following:
