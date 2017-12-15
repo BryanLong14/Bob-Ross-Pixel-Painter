@@ -4,7 +4,7 @@ Paintable canvas created via DOM manipulation.
 
 <a href="https://www.youtube.com/embed/VkF0IZ0Lgws">Please watch the tutorial before proceeding</a>
 
-<a href="https://paint-some-happy-trees.firebaseapp.com/">## Try it Yourself - Happy Trees Pixel Painter - Live Hosted URL</a>
+<h2><a href="https://paint-some-happy-trees.firebaseapp.com/">## Try it Yourself - Happy Trees Pixel Painter - Live Hosted URL</a></h2>
 
 ## Bob Ross Pixel Art Maker Screenshot
 ![Screenshot of PixelMaker](screenshots/Bob.jpg)
