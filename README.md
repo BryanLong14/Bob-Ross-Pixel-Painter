@@ -1,4 +1,5 @@
-
+This App allows users to experience the joy of channeling their inner Bob Ross by virtually painting on his canvas.
+Paintable canvas created via DOM manipulation.
 
 
 <a href="https://www.youtube.com/embed/VkF0IZ0Lgws">Please watch the tutorial before proceeding</a>
